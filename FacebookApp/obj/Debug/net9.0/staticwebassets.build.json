@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nUk+y3MkwmIKPF/XiWcbplF4lsrk5KNzgGgnec+qCBY=",
+  "Source": "FacebookApp",
+  "BasePath": "_content/FacebookApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

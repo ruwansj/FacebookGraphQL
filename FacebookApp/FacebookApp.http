@@ -1,0 +1,6 @@
+@FacebookApp_HostAddress = http://localhost:5017
+
+GET {{FacebookApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
